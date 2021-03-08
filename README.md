@@ -48,11 +48,11 @@ Skills
 
 Certifications
 -----------------------------
--Sucessfully Completed **Python Programming** in Udemy
+- Sucessfully Completed **Python Programming** in Udemy
 
--Sucessfully Completed **Nptel Course**
+- Sucessfully Completed **Nptel Course**
 
--Sucessfully Completed **Git and GitHub**
+- Sucessfully Completed **Git and GitHub**
 
 
 
@@ -60,6 +60,10 @@ Certifications
 Personal Info
 -------------------
 -Father Name: Venkatramaiah Borra
+
 -DOB: 05-aug-1999
+
 -Gender: Female
+
 -Address: Guntur
+

@@ -49,8 +49,11 @@ Skills
 Certifications
 -----------------------------
 -Sucessfully Completed **Python Programming** in Udemy
+
 -Sucessfully Completed **Nptel Course**
+
 -Sucessfully Completed **Git and GitHub**
+
 
 
 

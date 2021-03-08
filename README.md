@@ -3,7 +3,9 @@ Chandra Pravallika borra
 
 -------------------     ----------------------------
 -Email                    borrapravallika123@gmail.com
+
 -phone                    7702967370
+
 -MyCountry                India
 -------------------     ----------------------------
 

@@ -14,7 +14,9 @@ Education
 
 2019-2022 (MCA)
 : **Master Of Computer Applications**;  University (MyTown)
+
 Percantage:78%
+
 
     RVR&JC COLLEGE
 
@@ -23,7 +25,9 @@ Percantage:78%
 
 :   **BSc, Computer Science**; University of
     HomeTown (HomeTown)
+    
     Percantage:83%
+    
 
     JKC
  2014-2016
